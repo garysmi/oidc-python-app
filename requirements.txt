@@ -1,0 +1,6 @@
+flask
+flask-oidc
+sqlalchemy
+oic
+oauth2client
+pyopenssl
